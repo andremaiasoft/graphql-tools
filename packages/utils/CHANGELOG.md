@@ -1,5 +1,11 @@
 # @graphql-tools/utils
 
+## 7.10.1
+
+### Patch Changes
+
+- 982c8f53: enhance(utils): refactor, cleanup and remove extra work
+
 ## 7.10.0
 
 ### Minor Changes

@@ -1,5 +1,13 @@
 # @graphql-tools/url-loader
 
+## 6.10.2
+
+### Patch Changes
+
+- a31f9593: enhance(url-loader): avoid doing extra work on loader level
+- Updated dependencies [982c8f53]
+  - @graphql-tools/utils@7.10.1
+
 ## 6.10.1
 
 ### Patch Changes

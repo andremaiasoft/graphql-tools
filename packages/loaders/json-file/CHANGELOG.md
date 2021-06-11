@@ -1,5 +1,13 @@
 # @graphql-tools/json-file-loader
 
+## 6.2.7
+
+### Patch Changes
+
+- a31f9593: enhance(json-file-loader): check for path in a safer way
+- Updated dependencies [982c8f53]
+  - @graphql-tools/utils@7.10.1
+
 ## 6.2.6
 
 ### Patch Changes

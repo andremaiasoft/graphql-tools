@@ -1,5 +1,16 @@
 # @graphql-tools/apollo-engine-loader
 
+## 6.3.0
+
+### Minor Changes
+
+- a31f9593: feat(apollo-engine): add sync support
+
+### Patch Changes
+
+- Updated dependencies [982c8f53]
+  - @graphql-tools/utils@7.10.1
+
 ## 6.2.5
 
 ### Patch Changes

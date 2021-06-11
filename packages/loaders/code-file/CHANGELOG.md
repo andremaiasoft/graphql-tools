@@ -1,5 +1,13 @@
 # @graphql-tools/code-file-loader
 
+## 6.3.2
+
+### Patch Changes
+
+- a31f9593: enhance(code-file-loader): remove extra work on loader level
+- Updated dependencies [982c8f53]
+  - @graphql-tools/utils@7.10.1
+
 ## 6.3.1
 
 ### Patch Changes

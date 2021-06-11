@@ -1,5 +1,16 @@
 # @graphql-tools/module-loader
 
+## 6.3.0
+
+### Minor Changes
+
+- a31f9593: feat(module-loader): check if module exists using FS
+
+### Patch Changes
+
+- Updated dependencies [982c8f53]
+  - @graphql-tools/utils@7.10.1
+
 ## 6.2.7
 
 ### Patch Changes
